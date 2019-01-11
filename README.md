@@ -1,5 +1,6 @@
 # Group-47
-Capstone project of group 47 (Qi Yan and Yixing Wen)
+Optimal Measurement Scheduling for Cooperative Localization in Resource-constrained Conditions
+Capstone project of group 47
 
 颜齐   515020910184
 文怡星 515020910183
