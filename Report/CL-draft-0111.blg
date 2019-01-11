@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: CL-draft-0111.aux
+The style file: plainnat.bst
+Database file #1: my_ref.bib
+Repeated entry---line 927 of file my_ref.bib
+ : @article{leung2011utias
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in chang2017multirobot
+Warning--empty school in leung2012cooperative
+You've used 25 entries,
+            2773 wiz_defined-function locations,
+            763 strings with 10709 characters,
+and the built_in function-call counts, 13928 in all, are:
+= -- 1303
+> -- 757
+< -- 21
++ -- 255
+- -- 228
+* -- 1166
+:= -- 2058
+add.period$ -- 111
+call.type$ -- 25
+change.case$ -- 151
+chr.to.int$ -- 23
+cite$ -- 52
+duplicate$ -- 648
+empty$ -- 1089
+format.name$ -- 269
+if$ -- 3041
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 24
+newline$ -- 167
+num.names$ -- 100
+pop$ -- 275
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 513
+stack$ -- 0
+substring$ -- 559
+swap$ -- 164
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 275
+warning$ -- 2
+while$ -- 107
+width$ -- 0
+write$ -- 402
+(There was 1 error message)

@@ -1,0 +1,220 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bahr et~al.(2009)Bahr, Leonard, and Fallon]{bahr2009cooperative}
+Alexander Bahr, John~J. Leonard, and Maurice~F. Fallon.
+\newblock Cooperative {{Localization}} for {{Autonomous Underwater Vehicles}}.
+\newblock \emph{The International Journal of Robotics Research}, 28\penalty0
+  (6):\penalty0 714--728, June 2009.
+\newblock ISSN 0278-3649.
+\newblock \doi{10.1177/0278364908100561}.
+
+\bibitem[Chang and Mehta(2018{\natexlab{a}})]{chang2018controltheoretical}
+T.~Chang and A.~Mehta.
+\newblock Control-{{Theoretical}} and {{Topological Analysis}} of {{Covariance
+  Intersection Based Distributed Kalman Filter}}.
+\newblock \emph{IEEE Control Systems Letters}, 2\penalty0 (4):\penalty0
+  665--670, October 2018{\natexlab{a}}.
+\newblock ISSN 2475-1456.
+\newblock \doi{10.1109/LCSYS.2018.2844734}.
+
+\bibitem[Chang and Mehta(2018{\natexlab{b}})]{chang2018optimal}
+T.~Chang and A.~Mehta.
+\newblock Optimal {{Scheduling}} for {{Resource}}-{{Constrained Multirobot
+  Cooperative Localization}}.
+\newblock \emph{IEEE Robotics and Automation Letters}, 3\penalty0 (3):\penalty0
+  1552--1559, July 2018{\natexlab{b}}.
+\newblock ISSN 2377-3766.
+\newblock \doi{10.1109/LRA.2018.2801467}.
+
+\bibitem[Chang et~al.(2017)Chang, Chen, and Mehta]{chang2017multirobot}
+Tsang-Kai Chang, Shengkang Chen, and Ankur Mehta.
+\newblock Multirobot {{Cooperative Localization Algorithm}} with {{Explicit
+  Communication}} and its {{Topology Analysis}}.
+\newblock page~16, 2017.
+
+\bibitem[Hausman et~al.(2015)Hausman, M{\"u}ller, Hariharan, Ayanian, and
+  Sukhatme]{hausman2015cooperative}
+Karol Hausman, J{\"o}rg M{\"u}ller, Abishek Hariharan, Nora Ayanian, and
+  Gaurav~S Sukhatme.
+\newblock Cooperative multi-robot control for target tracking with onboard
+  sensing.
+\newblock \emph{The International Journal of Robotics Research}, 34\penalty0
+  (13):\penalty0 1660--1677, 2015.
+
+\bibitem[Jawaid and Smith(2015)]{jawaid2015submodularity}
+Syed~Talha Jawaid and Stephen~L. Smith.
+\newblock Submodularity and greedy algorithms in sensor scheduling for linear
+  dynamical systems.
+\newblock \emph{Automatica}, 61:\penalty0 282--288, November 2015.
+\newblock ISSN 0005-1098.
+\newblock \doi{10.1016/j.automatica.2015.08.022}.
+
+\bibitem[Kia et~al.(2014)Kia, Rounds, and
+  Mart\'inez]{kia2014centralizedequivalent}
+S.~S. Kia, S.~F. Rounds, and S.~Mart\'inez.
+\newblock A centralized-equivalent decentralized implementation of {{Extended
+  Kalman Filters}} for cooperative localization.
+\newblock In \emph{2014 {{IEEE}}/{{RSJ International Conference}} on
+  {{Intelligent Robots}} and {{Systems}}}, pages 3761--3766, September 2014.
+\newblock \doi{10.1109/IROS.2014.6943090}.
+
+\bibitem[Kia et~al.(2015)Kia, Rounds, and Mart\'inez]{kia2015cooperative}
+S.~S. Kia, S.~Rounds, and S.~Mart\'inez.
+\newblock Cooperative localization under message dropouts via a partially
+  decentralized {{EKF}} scheme.
+\newblock In \emph{2015 {{IEEE International Conference}} on {{Robotics}} and
+  {{Automation}} ({{ICRA}})}, pages 5977--5982, May 2015.
+\newblock \doi{10.1109/ICRA.2015.7140037}.
+
+\bibitem[Kia et~al.(2016)Kia, Rounds, and Martinez]{kia2016cooperative}
+S.~S. Kia, S.~Rounds, and S.~Martinez.
+\newblock Cooperative {{Localization}} for {{Mobile Agents}}: {{A Recursive
+  Decentralized Algorithm Based}} on {{Kalman}}-{{Filter Decoupling}}.
+\newblock \emph{IEEE Control Systems}, 36\penalty0 (2):\penalty0 86--101, April
+  2016.
+\newblock ISSN 1066-033X.
+\newblock \doi{10.1109/MCS.2015.2512033}.
+
+\bibitem[Kia et~al.(2018)Kia, Hechtbauer, Gogokhiya, and
+  Martinez]{kia2018serverassisted}
+Solmaz~S. Kia, Jonathan Hechtbauer, David Gogokhiya, and Sonia Martinez.
+\newblock Server-{{Assisted Distributed Cooperative Localization Over
+  Unreliable Communication Links}}.
+\newblock \emph{IEEE Transactions on Robotics}, pages 1--8, 2018.
+\newblock ISSN 1552-3098, 1941-0468.
+\newblock \doi{10.1109/TRO.2018.2830411}.
+
+\bibitem[Leung et~al.(2011)Leung, Halpern, Barfoot, and Liu]{leung2011utias}
+Keith~YK Leung, Yoni Halpern, Timothy~D Barfoot, and Hugh~HT Liu.
+\newblock The {{UTIAS}} multi-robot cooperative localization and mapping
+  dataset.
+\newblock \emph{The International Journal of Robotics Research}, 30\penalty0
+  (8):\penalty0 969--974, July 2011.
+\newblock ISSN 0278-3649.
+\newblock \doi{10.1177/0278364911398404}.
+
+\bibitem[Leung(2012)]{leung2012cooperative}
+Keith Yu~Kit Leung.
+\newblock \emph{Cooperative {{Localization}} and {{Mapping}} in
+  {{Sparsely}}-Communicating {{Robot Networks}}}.
+\newblock Thesis, August 2012.
+
+\bibitem[Luft et~al.(2018)Luft, Schubert, Roumeliotis, and
+  Burgard]{luft2018recursive}
+Lukas Luft, Tobias Schubert, Stergios~I. Roumeliotis, and Wolfram Burgard.
+\newblock Recursive decentralized localization for multi-robot systems with
+  asynchronous pairwise communication.
+\newblock \emph{The International Journal of Robotics Research}, page
+  027836491876069, March 2018.
+\newblock ISSN 0278-3649, 1741-3176.
+\newblock \doi{10.1177/0278364918760698}.
+
+\bibitem[Mourikis and Roumeliotis(2006)]{mourikis2006optimal}
+A.~I. Mourikis and S.~I. Roumeliotis.
+\newblock Optimal sensor scheduling for resource-constrained localization of
+  mobile robot formations.
+\newblock \emph{IEEE Transactions on Robotics}, 22\penalty0 (5):\penalty0
+  917--931, October 2006.
+\newblock ISSN 1552-3098.
+\newblock \doi{10.1109/TRO.2006.878947}.
+
+\bibitem[Razavi et~al.(2018)Razavi, Bozorgzadeh, Kim, and
+  Kia]{razavi2018resourceaware}
+Seyyed~Ahmad Razavi, Eli Bozorgzadeh, Kanghee Kim, and Solmaz~S Kia.
+\newblock Resource-aware {{Decentralization}} of a {{UKF}}-based {{Cooperative
+  Localization}} for {{Networked Mobile Robots}}.
+\newblock In \emph{2018 {{Euromicro Conference}} on {{Digital System Design}}
+  ({{DSD}})}, page~8, 2018.
+
+\bibitem[Roumeliotis and Bekey(2002)]{roumeliotis2002distributed}
+S.~I. Roumeliotis and G.~A. Bekey.
+\newblock Distributed multirobot localization.
+\newblock \emph{IEEE Transactions on Robotics and Automation}, 18\penalty0
+  (5):\penalty0 781--795, October 2002.
+\newblock ISSN 1042-296X.
+\newblock \doi{10.1109/TRA.2002.803461}.
+
+\bibitem[Tzoumas et~al.(2016{\natexlab{a}})Tzoumas, Jadbabaie, and
+  Pappas]{tzoumas2016nearoptimal}
+V.~Tzoumas, A.~Jadbabaie, and G.~J. Pappas.
+\newblock Near-optimal sensor scheduling for batch state estimation:
+  {{Complexity}}, algorithms, and limits.
+\newblock In \emph{2016 {{IEEE}} 55th {{Conference}} on {{Decision}} and
+  {{Control}} ({{CDC}})}, pages 2695--2702, December 2016{\natexlab{a}}.
+\newblock \doi{10.1109/CDC.2016.7798669}.
+
+\bibitem[Tzoumas et~al.(2016{\natexlab{b}})Tzoumas, Jadbabaie, and
+  Pappas]{tzoumas2016sensor}
+V.~Tzoumas, A.~Jadbabaie, and G.~J. Pappas.
+\newblock Sensor placement for optimal {{Kalman}} filtering: {{Fundamental}}
+  limits, submodularity, and algorithms.
+\newblock In \emph{2016 {{American Control Conference}} ({{ACC}})}, pages
+  191--196, Boston, MA, USA, July 2016{\natexlab{b}}. {IEEE}.
+\newblock ISBN 978-1-4673-8682-1.
+\newblock \doi{10.1109/ACC.2016.7524914}.
+
+\bibitem[Tzoumas et~al.(2017)Tzoumas, Atanasov, Jadbabaie, and
+  Pappas]{tzoumas2017scheduling}
+V.~Tzoumas, N.~A. Atanasov, A.~Jadbabaie, and G.~J. Pappas.
+\newblock Scheduling nonlinear sensors for stochastic process estimation.
+\newblock In \emph{2017 {{American Control Conference}} ({{ACC}})}, pages
+  580--585, May 2017.
+\newblock \doi{10.23919/ACC.2017.7963015}.
+
+\bibitem[Tzoumas et~al.(2018)Tzoumas, Xue, Pequito, Bogdan, and
+  Pappas]{tzoumas2018selecting}
+V.~Tzoumas, Y.~Xue, S.~Pequito, P.~Bogdan, and G.~J. Pappas.
+\newblock Selecting {{Sensors}} in {{Biological Fractional}}-{{Order Systems}}.
+\newblock \emph{IEEE Transactions on Control of Network Systems}, 5\penalty0
+  (2):\penalty0 709--721, June 2018.
+\newblock ISSN 2325-5870.
+\newblock \doi{10.1109/TCNS.2018.2809959}.
+
+\bibitem[Vitus et~al.(2012)Vitus, Zhang, Abate, Hu, and
+  Tomlin]{vitus2012efficient}
+Michael~P. Vitus, Wei Zhang, Alessandro Abate, Jianghai Hu, and Claire~J.
+  Tomlin.
+\newblock On efficient sensor scheduling for linear dynamical systems.
+\newblock \emph{Automatica}, 48\penalty0 (10):\penalty0 2482--2493, October
+  2012.
+\newblock ISSN 0005-1098.
+\newblock \doi{10.1016/j.automatica.2012.06.092}.
+
+\bibitem[{Vu Dinh} and Kia(2015)]{vudinh2015serverclient}
+{Vu Dinh} and Solmaz~S. Kia.
+\newblock A server-client based distributed processing for an {{Unscented
+  Kalman}} filter for cooperative localization.
+\newblock In \emph{2015 {{IEEE International Conference}} on {{Multisensor
+  Fusion}} and {{Integration}} for {{Intelligent Systems}} ({{MFI}})}, pages
+  43--48, San Diego, CA, USA, September 2015. {IEEE}.
+\newblock ISBN 978-1-4799-7772-7.
+\newblock \doi{10.1109/MFI.2015.7295743}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Ayoub, and Sundaram]{zhang2017sensor}
+Haotian Zhang, Raid Ayoub, and Shreyas Sundaram.
+\newblock Sensor selection for {{Kalman}} filtering of linear dynamical
+  systems: {{Complexity}}, limitations and greedy algorithms.
+\newblock \emph{Automatica}, 78:\penalty0 202--210, April 2017.
+\newblock ISSN 0005-1098.
+\newblock \doi{10.1016/j.automatica.2016.12.025}.
+
+\bibitem[Zhu and Kia(2017)]{zhu2017consistent}
+Jianan Zhu and Solmaz~S Kia.
+\newblock Consistent loosely coupled decentralized cooperative navigation for
+  team of mobile agents.
+\newblock In \emph{Proceedings of the 2017 {{International Technical Meeting}},
+  {{ION ITM}} 2017}, page~23, 2017.
+
+\bibitem[Zhu and Kia(2018)]{zhu2018loosely}
+Jianan Zhu and Solmaz~S Kia.
+\newblock A loosely coupled cooperative localization augmentation to improve
+  human geolocation in indoor environments.
+\newblock \emph{International Conference on Indoor Positioning and Indoor
+  Navigation}, page~8, 2018.
+
+\end{thebibliography}
