@@ -321,10 +321,11 @@ Due to the space limit, the proof is omitted here for brevity and the details co
 	\caption{Greedy approach for Problem 1}
 	\textbf{Input:} $h,\Delta$ \\
 	\textbf{Output: } approximate solution for Problem 1 \\
-	$S \leftarrow \emptyset, r \leftarrow 0$\\
+	$S \leftarrow \emptyset, r \leftarrow \Delta $\\
 	\textbf{while} $(r>0)$ \textbf{do} \\
 		$a_i \leftarrow a'\in \text{argmax}_{a\notin S} h(S) - h(S\cup \{a\})$ \\
 		$S \leftarrow S \cup \{a_i\}$\\
+		$r\leftarrow \Delta - 1$\\
 	\textbf{end while}
 	\label{alg::selection}
 \end{algorithm}
